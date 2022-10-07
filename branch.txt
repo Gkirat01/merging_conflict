@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 heyy how are you
-=======
-i am fine
->>>>>>> 0b5f558fca70dc6f22eb289566071701e5637efd
+
+
